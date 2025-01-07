@@ -100,4 +100,4 @@ Jireh Coin is open-source and distributed under the [MIT License](LICENSE). Feel
 
 ## Contact
 
-For inquiries, partnerships, or support, contact the team at: **[Your Email/Website]**
+For inquiries, partnerships, or support, contact the team at: **[mailto:heip@jirehcoins.com]**
